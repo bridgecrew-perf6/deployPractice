@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: DM Sans;
+    background-color: rgb(240, 150, 150);
+}
+
+div {
+    font-size: 14rem;
+    padding-left: 12rem;
+    padding-top: 10rem;
+    width: 60rem;
+    height: 60rem;
+    border: 2rem solid rgb(164, 159, 159);
+    color: rgb(164, 159, 159);
+    margin: 10rem auto;
+}
